@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutenticacionGoogle", "AutenticacionGoogle\AutenticacionGoogle.csproj", "{ADB6D45B-1411-49A6-B8F6-0B6A2802B17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB6D45B-1411-49A6-B8F6-0B6A2802B17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB6D45B-1411-49A6-B8F6-0B6A2802B17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB6D45B-1411-49A6-B8F6-0B6A2802B17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB6D45B-1411-49A6-B8F6-0B6A2802B17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE2A91F-5631-4DED-AA8B-BF71A0419B11}
+	EndGlobalSection
+EndGlobal
